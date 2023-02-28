@@ -1,3 +1,8 @@
+/*
+ * File : Titik.java
+ * Penulis : Daffa Aulia Rizky Karunia (24060121130070)
+ * Deskripsi : kelas yang berisi program Titik
+ */
 class Titik{
 	double absis;
 	double ordinat;
