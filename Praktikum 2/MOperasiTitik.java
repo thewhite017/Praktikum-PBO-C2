@@ -1,5 +1,5 @@
 /*
- * File : MOperasiTitik.java
+ * File : MOperasiTitik.java	1/3/2023
  * Penulis : Daffa Aulia Rizky Karunia (24060121130070)
  * Deskripsi : kelas yang berisi program utama berupa OperasiTitik
  */
